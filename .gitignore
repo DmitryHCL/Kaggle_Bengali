@@ -22,3 +22,5 @@ Input/train_image_data_2.npy
 Input/train_image_data_3.feather
 
 Input/train_image_data_3.npy
+
+.ipynb_checkpoints
